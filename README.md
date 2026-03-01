@@ -48,3 +48,6 @@ Manifest V3
 Background Service Worker
 
 Chrome Tabs API
+
+Output:
+<img width="1878" height="936" alt="Image" src="https://github.com/user-attachments/assets/df31768f-aafc-4192-9eb4-e432d1abd4a2" />

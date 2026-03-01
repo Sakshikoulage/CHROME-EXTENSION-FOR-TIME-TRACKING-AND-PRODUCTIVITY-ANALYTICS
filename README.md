@@ -1,5 +1,17 @@
 # CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
+*COMPANY*:CODTECH IT SOLUTIONS
+
+*NAME*:SAKSHI KOULAGE
+
+*INTERN ID*:CTIS5019
+
+*DOMAIN*:FULL STACK WEB DEVELOPMENT
+
+*DURATION*:4-WEEKS
+
+*MENTOR*:NEELA SANTOSH
+
 This project is a full-stack productivity tracking system built using a Chrome Extension, Node.js backend, MongoDB database, and a React dashboard.
 
 The Chrome extension tracks the time users spend on different websites and classifies them as Productive, Unproductive, or Neutral. The backend processes and stores this data, while the React dashboard visualizes productivity analytics with charts and weekly reports.
